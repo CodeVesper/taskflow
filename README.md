@@ -1,4 +1,4 @@
-\# TaskFlow
+# TaskFlow
 
 
 
@@ -8,7 +8,7 @@ Python and FastAPI.
 
 
 
-\## About
+## About
 
 
 
@@ -18,43 +18,43 @@ tasks, track progress, and maintain productivity.
 
 
 
-\## Planned Features
+## Planned Features
 
 
 
-\- User registration and authentication
+- User registration and authentication
 
-\- Project management
+- Project management
 
-\- Task management
+- Task management
 
-\- Task priorities and statuses
+- Task priorities and statuses
 
-\- Task search and filtering
+- Task search and filtering
 
-\- Secure user-specific data access
-
-
-
-\## Technology Stack
+- Secure user-specific data access
 
 
 
-\- Python
-
-\- FastAPI
-
-\- PostgreSQL
-
-\- SQLAlchemy
-
-\- Pytest
-
-\- Docker
+## Technology Stack
 
 
 
-\## Project Status
+- Python
+
+- FastAPI
+
+- PostgreSQL
+
+- SQLAlchemy
+
+- Pytest
+
+- Docker
+
+
+
+## Project Status
 
 
 
@@ -62,7 +62,7 @@ Currently in the planning and design phase.
 
 
 
-\## License
+## License
 
 
 
